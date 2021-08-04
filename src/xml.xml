@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<autoshop>
+
+    <brand id="1">
+        <unit>
+            <title>Focus</title>
+            <price>600000</price>
+            <year>2021</year>
+            <status>new</status>
+        </unit>
+        <unit>
+            <title>Kugo</title>
+            <price>700000</price>
+            <year>2021</year>
+            <status>new</status>
+        </unit>
+        <unit>
+            <title>Focus</title>
+            <price>450000</price>
+            <year>2021</year>
+            <status>new</status>
+        </unit>
+    </brand>
+
+    <brand id="2">
+        <unit>
+            <title>Mercedes A-class</title>
+            <price>750000</price>
+            <year>2021</year>
+            <status>new</status>
+        </unit>
+        <unit>
+            <title>Mercedes C-class</title>
+            <price>850000</price>
+            <year>2021</year>
+            <status>new</status>
+        </unit>
+        <unit>
+            <title>Mercedes E-class</title>
+            <price>1000000</price>
+            <year>2021</year>
+            <status>new</status>
+        </unit>
+    </brand>
+
+    <brand id="1">
+        <unit>
+            <title>Focus</title>
+            <price>400000</price>
+            <year>2013</year>
+            <status>used</status>
+        </unit>
+        <unit>
+            <title>Kugo</title>
+            <price>500000</price>
+            <year>2015</year>
+            <status>used</status>
+        </unit>
+        <unit>
+            <title>Focus</title>
+            <price>350000</price>
+            <year>2014</year>
+            <status>used</status>
+        </unit>
+        <unit>
+            <title>Mustang</title>
+            <price>1200000</price>
+            <year>2018</year>
+            <status>used</status>
+        </unit>
+    </brand>
+
+    <brand id="2">
+        <unit>
+            <title>Mercedes A-class</title>
+            <price>450000</price>
+            <year>2011</year>
+            <status>used</status>
+        </unit>
+        <unit>
+            <title>Mercedes C-class</title>
+            <price>600000</price>
+            <year>2009</year>
+            <status>used</status>
+        </unit>
+        <unit>
+            <title>Mercedes E-class</title>
+            <price>800000</price>
+            <year>2016</year>
+            <status>used</status>
+        </unit>
+        <unit>
+            <title>Mercedes E-class</title>
+            <price>8900000</price>
+            <year>2017</year>
+            <status>used</status>
+        </unit>
+    </brand>
+
+</autoshop>
