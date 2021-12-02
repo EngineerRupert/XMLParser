@@ -1,3 +1,8 @@
+package repository;
+
+import dbconnection.DBConnection;
+import model.Car;
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

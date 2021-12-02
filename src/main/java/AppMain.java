@@ -1,4 +1,7 @@
+import model.Car;
 import org.xml.sax.SAXException;
+import repository.UserActions;
+import service.Handler;
 
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
