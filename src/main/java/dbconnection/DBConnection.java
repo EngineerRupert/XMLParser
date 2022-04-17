@@ -18,7 +18,7 @@ public class DBConnection {
         return DriverManager.getConnection(
                 "jdbc:postgresql://localhost:5432/carshowroom",
                 "postgres",
-                "1106935");
+                "xxxx");
     }
 
 }
